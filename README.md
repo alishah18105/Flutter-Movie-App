@@ -3,7 +3,7 @@
 Here are the screenshots of the app:
 
 ## Screenshot 1
-[Click here to view the image](https://github.com/alishah18105/Flutter-Movie-App/blob/main/Screen%20Shots/Image%201.jpeg)
+![Image 2](Screen%20Shots/Image%201.jpeg)
 
 
 ## Screenshot 2
