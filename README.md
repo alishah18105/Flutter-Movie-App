@@ -1,16 +1,15 @@
-# movie_app
+# Movie App
 
-A new Flutter project.
+Here are the screenshots of the app:
 
-## Getting Started
+## Screenshot 1
+![Image 1](Screen%20Shots/Image%201.jpeg)
 
-This project is a starting point for a Flutter application.
+## Screenshot 2
+![Image 2](Screen%20Shots/Image%202.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot 3
+![Image 3](Screen%20Shots/Image%203.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot 4
+![Image 4](Screen%20Shots/Image%204.jpeg)
